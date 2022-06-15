@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.08.27 11:46:43.890.cpp,C:\Documents and Settings\TransGOD\Мои документы\RAD Studio\Projects\Unit1.cpp=D:\Y(X) Oscillograph 2.0\Oscilloscope.cpp</Transaction>
+    <Transaction>2008.08.27 11:46:43.890.h,C:\Documents and Settings\TransGOD\Мои документы\RAD Studio\Projects\Unit1.h=D:\Y(X) Oscillograph 2.0\Oscilloscope.h</Transaction>
+    <Transaction>2008.08.27 11:46:43.890.dfm,C:\Documents and Settings\TransGOD\Мои документы\RAD Studio\Projects\Unit1.dfm=D:\Y(X) Oscillograph 2.0\Oscilloscope.dfm</Transaction>
+    <Transaction>2008.08.27 11:47:06.781.cbproj,C:\Documents and Settings\TransGOD\Мои документы\RAD Studio\Projects\Project1.cbproj=D:\Y(X) Oscillograph 2.0\Oscillograph.cbproj</Transaction>
+    <Transaction>2008.08.27 12:09:16.000.lib,D:\Y(X) Oscillograph 2.0\B181.lib=</Transaction>
+    <Transaction>2008.08.27 12:09:18.640.h,D:\Y(X) Oscillograph 2.0\B181.h=</Transaction>
+    <Transaction>2008.08.28 13:31:58.093.cpp,D:\Y(X) Oscillograph 2.0\Device.cpp=</Transaction>
+    <Transaction>2008.08.28 14:13:25.562.cpp,D:\Y(X) Oscillograph 2.0\Unit2.cpp=D:\Y(X) Oscillograph 2.0\FStartD.cpp</Transaction>
+    <Transaction>2008.08.28 14:13:25.562.h,D:\Y(X) Oscillograph 2.0\Unit2.h=D:\Y(X) Oscillograph 2.0\FStartD.h</Transaction>
+    <Transaction>2008.08.28 14:13:25.562.dfm,D:\Y(X) Oscillograph 2.0\Unit2.dfm=D:\Y(X) Oscillograph 2.0\FStartD.dfm</Transaction>
+    <Transaction>2008.08.28 14:25:55.515.cpp,D:\Y(X) Oscillograph 2.0\Device.cpp=</Transaction>
+    <Transaction>2008.08.28 16:22:58.500.cpp,D:\Y(X) Oscillograph 2.0\Unit3.cpp=D:\Y(X) Oscillograph 2.0\cmnconf.cpp</Transaction>
+    <Transaction>2008.08.28 16:22:58.500.h,D:\Y(X) Oscillograph 2.0\Unit3.h=D:\Y(X) Oscillograph 2.0\cmnconf.h</Transaction>
+    <Transaction>2008.08.28 16:22:58.500.dfm,D:\Y(X) Oscillograph 2.0\Unit3.dfm=D:\Y(X) Oscillograph 2.0\cmnconf.dfm</Transaction>
+    <Transaction>2008.08.29 14:53:37.750.cpp,D:\Y(X) Oscillograph 2.0\Unit4.cpp=D:\Y(X) Oscillograph 2.0\dacconf.cpp</Transaction>
+    <Transaction>2008.08.29 14:53:37.750.h,D:\Y(X) Oscillograph 2.0\Unit4.h=D:\Y(X) Oscillograph 2.0\dacconf.h</Transaction>
+    <Transaction>2008.08.29 14:53:37.750.dfm,D:\Y(X) Oscillograph 2.0\Unit4.dfm=D:\Y(X) Oscillograph 2.0\dacconf.dfm</Transaction>
+    <Transaction>2008.09.02 15:54:08.671.cpp,D:\Y(X) Oscillograph 2.0\Unit5.cpp=D:\Y(X) Oscillograph 2.0\adcconf.cpp</Transaction>
+    <Transaction>2008.09.02 15:54:08.671.h,D:\Y(X) Oscillograph 2.0\Unit5.h=D:\Y(X) Oscillograph 2.0\adcconf.h</Transaction>
+    <Transaction>2008.09.02 15:54:08.671.dfm,D:\Y(X) Oscillograph 2.0\Unit5.dfm=D:\Y(X) Oscillograph 2.0\adcconf.dfm</Transaction>
+    <Transaction>2008.09.03 13:50:48.265.cpp,D:\Y(X) Oscillograph 2.0\Unit6.cpp=D:\Y(X) Oscillograph 2.0\generator.cpp</Transaction>
+    <Transaction>2008.09.03 13:50:48.265.h,D:\Y(X) Oscillograph 2.0\Unit6.h=D:\Y(X) Oscillograph 2.0\generator.h</Transaction>
+    <Transaction>2008.09.03 13:50:48.265.dfm,D:\Y(X) Oscillograph 2.0\Unit6.dfm=D:\Y(X) Oscillograph 2.0\generator.dfm</Transaction>
+    <Transaction>2008.09.07 18:50:55.703.cpp,D:\Y(X) Oscillograph 2.0\cmnconf.cpp=</Transaction>
+    <Transaction>2008.09.07 18:50:55.718.dfm,D:\Y(X) Oscillograph 2.0\cmnconf.dfm=</Transaction>
+    <Transaction>2008.09.11 19:06:54.015.cpp,D:\Y(X) Oscillograph 2.0\Unit3.cpp=D:\Y(X) Oscillograph 2.0\exporting.cpp</Transaction>
+    <Transaction>2008.09.11 19:06:54.015.h,D:\Y(X) Oscillograph 2.0\Unit3.h=D:\Y(X) Oscillograph 2.0\exporting.h</Transaction>
+    <Transaction>2008.09.11 19:06:54.015.dfm,D:\Y(X) Oscillograph 2.0\Unit3.dfm=D:\Y(X) Oscillograph 2.0\exporting.dfm</Transaction>
+    <Transaction>2008.09.11 19:31:58.265.cpp,D:\Y(X) Oscillograph 2.0\Unit3.cpp=D:\Y(X) Oscillograph 2.0\exporting.cpp</Transaction>
+    <Transaction>2008.09.11 19:31:58.265.h,D:\Y(X) Oscillograph 2.0\Unit3.h=D:\Y(X) Oscillograph 2.0\exporting.h</Transaction>
+    <Transaction>2008.09.11 19:31:58.265.dfm,D:\Y(X) Oscillograph 2.0\Unit3.dfm=D:\Y(X) Oscillograph 2.0\exporting.dfm</Transaction>
+    <Transaction>2008.09.17 22:18:35.390.cpp,D:\Y(X) Oscillograph 2.0\Unit7.cpp=D:\Y(X) Oscillograph 2.0\numexport.cpp</Transaction>
+    <Transaction>2008.09.17 22:18:35.390.h,D:\Y(X) Oscillograph 2.0\Unit7.h=D:\Y(X) Oscillograph 2.0\numexport.h</Transaction>
+    <Transaction>2008.09.17 22:18:35.390.dfm,D:\Y(X) Oscillograph 2.0\Unit7.dfm=D:\Y(X) Oscillograph 2.0\numexport.dfm</Transaction>
+    <Transaction>2008.09.24 17:49:37.281.cpp,D:\Y(X) Oscillograph 2.0\dacconf.cpp=</Transaction>
+    <Transaction>2008.09.24 17:49:37.281.dfm,D:\Y(X) Oscillograph 2.0\dacconf.dfm=</Transaction>
+    <Transaction>2008.09.24 18:18:27.453.cpp,D:\Y(X) Oscillograph 2.0\adcconf.cpp=</Transaction>
+    <Transaction>2008.09.24 18:18:27.453.dfm,D:\Y(X) Oscillograph 2.0\adcconf.dfm=</Transaction>
+    <Transaction>2008.10.23 20:54:43.656.cpp,D:\Y(X) Oscillograph 2.0\Unit4.cpp=D:\Y(X) Oscillograph 2.0\level.cpp</Transaction>
+    <Transaction>2008.10.23 20:54:43.656.h,D:\Y(X) Oscillograph 2.0\Unit4.h=D:\Y(X) Oscillograph 2.0\level.h</Transaction>
+    <Transaction>2008.10.23 20:54:43.656.dfm,D:\Y(X) Oscillograph 2.0\Unit4.dfm=D:\Y(X) Oscillograph 2.0\level.dfm</Transaction>
+    <Transaction>2008.10.26 23:10:20.687.cpp,D:\Y(X) Oscillograph 2.0\Unit5.cpp=D:\Y(X) Oscillograph 2.0\progress.cpp</Transaction>
+    <Transaction>2008.10.26 23:10:20.718.h,D:\Y(X) Oscillograph 2.0\Unit5.h=D:\Y(X) Oscillograph 2.0\progress.h</Transaction>
+    <Transaction>2008.10.26 23:10:20.718.dfm,D:\Y(X) Oscillograph 2.0\Unit5.dfm=D:\Y(X) Oscillograph 2.0\progress.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
